@@ -2,6 +2,7 @@
 
 Pagina sencilla de HTML, CSS y JS para agregar productos con nombre, precio y año
 
+
 **Tiene un problema, de que cuando los campos están vacios, y se da agregar, borra toda la información.**
 
 - [ ] Pendiente de Mejoras
